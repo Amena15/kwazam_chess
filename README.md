@@ -16,6 +16,7 @@ Kwazam Chess is a GUI-based desktop application developed in Java that enables t
 ```bash
 git clone https://github.com/your-username/kwazam-chess.git
 cd kwazam-chess
+```
 
 ### 2. Open in IDE
 Launch your preferred Java IDE (e.g., IntelliJ IDEA, Eclipse).
